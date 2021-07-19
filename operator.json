@@ -1,0 +1,6 @@
+{
+	"data":["Start","Create a variable to receive the user's email address","Clear the variable in case it's not empty","Ask the user for an email address","Store the response in a variable","Check the stored response to see if it is a valid email address","Not valid? go back to Step 3","End"],
+	"Title":["Sequence Game"],
+	"SubTitle":["ARRANGE IN THE ORDER OF PRECEDENCE"],
+	"Question":["Arrange in correct precedence"]
+}
